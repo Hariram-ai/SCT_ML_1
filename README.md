@@ -69,8 +69,8 @@ Predict house prices using Linear Regression based on square footage, number of 
 
 ### 📂 GitHub Repository
 
-https://github.com/Hariram-ai/SCT_ML_1
+<https://github.com/Hariram-ai/SCT_ML_1>
 
 ### 🚀 Live Demo
 
-https://sctml1-n4rovk68iqye7axwxpgwcw.streamlit.app
+<https://sctml1-n4rovk68iqye7axwxpgwcw.streamlit.app>
