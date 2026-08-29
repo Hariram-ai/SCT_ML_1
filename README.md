@@ -44,7 +44,6 @@ The application then predicts the estimated house price.
 
 ## Project Structure
 
-```text
 TASK_01_HOUSE_PRICE_PREDICTION/
 │
 ├── data/
