@@ -65,10 +65,12 @@ TASK_01_HOUSE_PRICE_PREDICTION/
 # 🏠 House Price Prediction
 
 Predict house prices using Linear Regression based on square footage, number of bedrooms, and number of bathrooms.
-
 ## 🔗 Project Links
 
-### 📂 GitHub https://github.com/Hariram-ai/SCT_ML_1
+### 📂 GitHub Repository
+
+https://github.com/Hariram-ai/SCT_ML_1
 
 ### 🚀 Live Demo
+
 https://sctml1-n4rovk68iqye7axwxpgwcw.streamlit.app
