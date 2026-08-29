@@ -43,7 +43,7 @@ The project includes a Streamlit web application where users can enter:
 The application then predicts the estimated house price.
 
 ## Project Structure
-```text
+```
 TASK_01_HOUSE_PRICE_PREDICTION/
 │
 ├── data/
