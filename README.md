@@ -62,3 +62,30 @@ TASK_01_HOUSE_PRICE_PREDICTION/
 ├── sample_submission.csv
 ├── submission.csv
 └── test.csv
+# 🏠 House Price Prediction
+
+Predict house prices using Linear Regression based on square footage, number of bedrooms, and number of bathrooms.
+
+## 🔗 Project Links
+
+### 📂 GitHub 
+[View Source Code on GitHub](https://github.com/Hariram-ai/SCT_ML_1)
+
+### 🚀 Live Demo
+[Try the House Price Prediction App](https://sctml1-n4rovk68iqye7axwxpgwcw.streamlit.app)
+
+## 📊 Features Used
+
+- GrLivArea — Living Area (sq ft)
+- BedroomAbvGr — Number of Bedrooms
+- FullBath — Number of Bathrooms
+
+## 🤖 Model
+
+Linear Regression
+
+## 📈 Model Performance
+
+- MAE: 35,788.06
+- RMSE: 52,975.72
+- R² Score: 0.6341
