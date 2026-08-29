@@ -73,19 +73,3 @@ Predict house prices using Linear Regression based on square footage, number of 
 
 ### 🚀 Live Demo
 [Try the House Price Prediction App](https://sctml1-n4rovk68iqye7axwxpgwcw.streamlit.app)
-
-## 📊 Features Used
-
-- GrLivArea — Living Area (sq ft)
-- BedroomAbvGr — Number of Bedrooms
-- FullBath — Number of Bathrooms
-
-## 🤖 Model
-
-Linear Regression
-
-## 📈 Model Performance
-
-- MAE: 35,788.06
-- RMSE: 52,975.72
-- R² Score: 0.6341
