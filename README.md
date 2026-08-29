@@ -61,6 +61,7 @@ TASK_01_HOUSE_PRICE_PREDICTION/
 ├── sample_submission.csv
 ├── submission.csv
 └── test.csv
+```text
 # 🏠 House Price Prediction
 
 Predict house prices using Linear Regression based on square footage, number of bedrooms, and number of bathrooms.
