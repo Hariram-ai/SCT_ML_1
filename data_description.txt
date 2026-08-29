@@ -1,0 +1,32 @@
+HOUSE PRICE PREDICTION - DATA DESCRIPTION
+
+Dataset:
+Ames Housing Dataset
+
+Target Variable:
+SalePrice - The sale price of the house.
+
+Features used in this project:
+
+1. GrLivArea
+   Description: Above-ground living area in square feet.
+   Used as: Square Footage
+
+2. BedroomAbvGr
+   Description: Number of bedrooms above ground.
+   Used as: Number of Bedrooms
+
+3. FullBath
+   Description: Number of full bathrooms above grade.
+   Used as: Number of Bathrooms
+
+Machine Learning Model:
+Linear Regression
+
+Input Features:
+- Square Footage
+- Number of Bedrooms
+- Number of Bathrooms
+
+Output:
+Predicted House Sale Price
